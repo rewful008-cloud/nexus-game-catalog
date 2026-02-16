@@ -1,0 +1,27 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+kun_nexus.db
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local text files
+*.txt
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
