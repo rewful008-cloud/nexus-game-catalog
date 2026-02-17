@@ -33,6 +33,12 @@ createApp({
                 new: "New",
                 games: "Games",
                 noResults: "No games found matching your criteria.",
+                statistics: "Statistics Overview",
+                totalGames: "Total Games",
+                page: "Page",
+                of: "of",
+                showing: "Showing",
+                results: "results",
                 modal: {
                     howItWorks: "How it Works",
                     adminNotes: "Admin Notes",
@@ -62,6 +68,12 @@ createApp({
                 new: "جديد",
                 games: "الألعاب",
                 noResults: "لا توجد ألعاب تطابق بحثك.",
+                statistics: "نظرة عامة على الإحصائيات",
+                totalGames: "إجمالي الألعاب",
+                page: "صفحة",
+                of: "من",
+                showing: "عرض",
+                results: "نتيجة",
                 modal: {
                     howItWorks: "طريقة العمل",
                     adminNotes: "ملاحظات الإدارة",
@@ -83,7 +95,7 @@ createApp({
 
         const t = computed(() => translations[lang.value]);
 
-        const toggleLang = () => {
+        const toggleLanguage = () => {
             lang.value = lang.value === 'en' ? 'ar' : 'en';
             localStorage.setItem('nexus_lang', lang.value);
             updateDirection();
@@ -100,6 +112,24 @@ createApp({
             platform: 'all',
             provider: 'all',
             genre: 'all'
+        });
+
+        // Pagination
+        const currentPage = ref(1);
+        const itemsPerPage = 40;
+
+        // Computed: Statistics
+        const statistics = computed(() => {
+            const all = games.value;
+            return {
+                total: all.length,
+                appsflyer: all.filter(g => g.provider === 'AppsFlyer').length,
+                adjust: all.filter(g => g.provider === 'Adjust').length,
+                singular: all.filter(g => g.provider === 'Singular').length,
+                active: all.filter(g => g.status === 'active').length,
+                not_active: all.filter(g => g.status === 'not_active').length,
+                soon: all.filter(g => g.status === 'soon').length
+            };
         });
 
         // Computed: Unique Providers
@@ -147,6 +177,18 @@ createApp({
             });
         });
 
+        // Computed: Total Pages
+        const totalPages = computed(() =>
+            Math.ceil(filteredGames.value.length / itemsPerPage)
+        );
+
+        // Computed: Paginated Games
+        const paginatedGames = computed(() => {
+            const start = (currentPage.value - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+            return filteredGames.value.slice(start, end);
+        });
+
         // Computed: Related Games (Same Developer)
         const relatedGames = computed(() => {
             if (!selectedGame.value || !selectedGame.value.developer || selectedGame.value.developer === 'Unknown') return [];
@@ -190,6 +232,45 @@ createApp({
             };
         };
 
+        // Pagination Methods
+        const goToPage = (page) => {
+            if (page < 1 || page > totalPages.value) return;
+            currentPage.value = page;
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        };
+
+        const nextPage = () => {
+            if (currentPage.value < totalPages.value) {
+                goToPage(currentPage.value + 1);
+            }
+        };
+
+        const prevPage = () => {
+            if (currentPage.value > 1) {
+                goToPage(currentPage.value - 1);
+            }
+        };
+
+        // Smart page button visibility (5 on mobile, 8 on desktop)
+        const shouldShowPage = (page) => {
+            const isMobile = window.innerWidth < 640; // sm breakpoint
+            const maxButtons = isMobile ? 5 : 8;
+
+            if (totalPages.value <= maxButtons) return true;
+
+            const current = currentPage.value;
+            const half = Math.floor(maxButtons / 2);
+
+            // Always show first page
+            if (page === 1) return true;
+
+            // Always show last page (if maxButtons allows)
+            if (page === totalPages.value && totalPages.value <= maxButtons) return true;
+
+            // Show pages around current page
+            return page >= current - half && page <= current + half;
+        };
+
         // Scroll listener
         const handleScroll = () => {
             scrolled.value = window.scrollY > 20;
@@ -218,14 +299,26 @@ createApp({
             }
         });
 
+        // Reset to page 1 when filters change
+        watch(filters, () => {
+            currentPage.value = 1;
+        }, { deep: true });
+
         return {
-            games, loading, scrolled, selectedGame,
-            filters,
-            lang, t, toggleLang,
+            // State
+            lang, games, selectedGame, loading, filters,
+
+            // Computed
+            t, featuredGames, filteredGames, relatedGames,
             uniqueProviders, uniqueGenres,
-            filteredGames, featuredGames, relatedGames,
-            openModal, closeModal, resetFilters
+            // Pagination
+            currentPage, totalPages, paginatedGames,
+            // Statistics
+            statistics,
+
+            // Methods
+            toggleLanguage, openModal, closeModal, resetFilters,
+            goToPage, nextPage, prevPage, shouldShowPage
         };
     }
 }).mount('#app');
-
