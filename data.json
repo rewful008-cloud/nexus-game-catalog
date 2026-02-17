@@ -22,7 +22,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799721"
+    "updated_at": "2026-02-17T02:43:19.166121"
   },
   {
     "id": 3,
@@ -46,7 +46,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799761"
+    "updated_at": "2026-02-17T02:43:19.166165"
   },
   {
     "id": 4,
@@ -70,7 +70,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799768"
+    "updated_at": "2026-02-17T02:43:19.166172"
   },
   {
     "id": 5,
@@ -94,7 +94,7 @@
     ],
     "status": "active",
     "admin_notes": "qqqqqqqqqqqqqqqqqqqq",
-    "updated_at": "2026-02-16T23:44:23.799773"
+    "updated_at": "2026-02-17T02:43:19.166177"
   },
   {
     "id": 6,
@@ -118,7 +118,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799781"
+    "updated_at": "2026-02-17T02:43:19.166182"
   },
   {
     "id": 8,
@@ -142,7 +142,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799786"
+    "updated_at": "2026-02-17T02:43:19.166187"
   },
   {
     "id": 9,
@@ -166,7 +166,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799790"
+    "updated_at": "2026-02-17T02:43:19.166191"
   },
   {
     "id": 11,
@@ -188,9 +188,9 @@
     "available_events": [
       "level_up"
     ],
-    "status": "active",
+    "status": "soon",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799794"
+    "updated_at": "2026-02-17T02:43:19.166200"
   },
   {
     "id": 12,
@@ -214,7 +214,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799798"
+    "updated_at": "2026-02-17T02:43:19.166204"
   },
   {
     "id": 13,
@@ -234,9 +234,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799805"
+    "updated_at": "2026-02-17T02:43:19.166212"
   },
   {
     "id": 14,
@@ -260,7 +260,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799811"
+    "updated_at": "2026-02-17T02:43:19.166217"
   },
   {
     "id": 16,
@@ -284,7 +284,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799816"
+    "updated_at": "2026-02-17T02:43:19.166222"
   },
   {
     "id": 17,
@@ -308,7 +308,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799821"
+    "updated_at": "2026-02-17T02:43:19.166226"
   },
   {
     "id": 18,
@@ -332,7 +332,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799825"
+    "updated_at": "2026-02-17T02:43:19.166230"
   },
   {
     "id": 19,
@@ -358,7 +358,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799830"
+    "updated_at": "2026-02-17T02:43:19.166235"
   },
   {
     "id": 20,
@@ -382,7 +382,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799836"
+    "updated_at": "2026-02-17T02:43:19.166239"
   },
   {
     "id": 21,
@@ -402,9 +402,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799840"
+    "updated_at": "2026-02-17T02:43:19.166244"
   },
   {
     "id": 22,
@@ -428,7 +428,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799845"
+    "updated_at": "2026-02-17T02:43:19.166249"
   },
   {
     "id": 23,
@@ -452,7 +452,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799849"
+    "updated_at": "2026-02-17T02:43:19.166253"
   },
   {
     "id": 24,
@@ -472,9 +472,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799852"
+    "updated_at": "2026-02-17T02:43:19.166257"
   },
   {
     "id": 25,
@@ -494,9 +494,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799858"
+    "updated_at": "2026-02-17T02:43:19.166262"
   },
   {
     "id": 27,
@@ -520,7 +520,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799864"
+    "updated_at": "2026-02-17T02:43:19.166266"
   },
   {
     "id": 28,
@@ -540,9 +540,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799869"
+    "updated_at": "2026-02-17T02:43:19.166271"
   },
   {
     "id": 29,
@@ -567,7 +567,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799874"
+    "updated_at": "2026-02-17T02:43:19.166275"
   },
   {
     "id": 30,
@@ -589,7 +589,7 @@
     "available_events": [],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799878"
+    "updated_at": "2026-02-17T02:43:19.166280"
   },
   {
     "id": 31,
@@ -613,7 +613,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799882"
+    "updated_at": "2026-02-17T02:43:19.166284"
   },
   {
     "id": 32,
@@ -637,7 +637,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799886"
+    "updated_at": "2026-02-17T02:43:19.166288"
   },
   {
     "id": 33,
@@ -659,7 +659,7 @@
     "available_events": [],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799892"
+    "updated_at": "2026-02-17T02:43:19.166296"
   },
   {
     "id": 34,
@@ -699,7 +699,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799900"
+    "updated_at": "2026-02-17T02:43:19.166302"
   },
   {
     "id": 35,
@@ -728,9 +728,9 @@
       "Unknown 7",
       "Unknown 8"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799906"
+    "updated_at": "2026-02-17T02:43:19.166307"
   },
   {
     "id": 37,
@@ -837,7 +837,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799931"
+    "updated_at": "2026-02-17T02:43:19.166316"
   },
   {
     "id": 38,
@@ -869,7 +869,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799936"
+    "updated_at": "2026-02-17T02:43:19.166321"
   },
   {
     "id": 39,
@@ -901,7 +901,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799941"
+    "updated_at": "2026-02-17T02:43:19.166326"
   },
   {
     "id": 40,
@@ -938,7 +938,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799946"
+    "updated_at": "2026-02-17T02:43:19.166331"
   },
   {
     "id": 42,
@@ -976,7 +976,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799952"
+    "updated_at": "2026-02-17T02:43:19.166335"
   },
   {
     "id": 43,
@@ -1007,7 +1007,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799958"
+    "updated_at": "2026-02-17T02:43:19.166340"
   },
   {
     "id": 44,
@@ -1036,7 +1036,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799962"
+    "updated_at": "2026-02-17T02:43:19.166344"
   },
   {
     "id": 45,
@@ -1069,7 +1069,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799967"
+    "updated_at": "2026-02-17T02:43:19.166350"
   },
   {
     "id": 46,
@@ -1145,7 +1145,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799973"
+    "updated_at": "2026-02-17T02:43:19.166357"
   },
   {
     "id": 47,
@@ -1182,7 +1182,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799978"
+    "updated_at": "2026-02-17T02:43:19.166362"
   },
   {
     "id": 48,
@@ -1214,7 +1214,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799986"
+    "updated_at": "2026-02-17T02:43:19.166366"
   },
   {
     "id": 49,
@@ -1247,7 +1247,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.799992"
+    "updated_at": "2026-02-17T02:43:19.166371"
   },
   {
     "id": 50,
@@ -1327,7 +1327,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800002"
+    "updated_at": "2026-02-17T02:43:19.166378"
   },
   {
     "id": 51,
@@ -1430,7 +1430,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800011"
+    "updated_at": "2026-02-17T02:43:19.166386"
   },
   {
     "id": 52,
@@ -1485,7 +1485,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800018"
+    "updated_at": "2026-02-17T02:43:19.166391"
   },
   {
     "id": 53,
@@ -1526,7 +1526,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800023"
+    "updated_at": "2026-02-17T02:43:19.166396"
   },
   {
     "id": 54,
@@ -1571,7 +1571,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800028"
+    "updated_at": "2026-02-17T02:43:19.166405"
   },
   {
     "id": 55,
@@ -1655,7 +1655,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800035"
+    "updated_at": "2026-02-17T02:43:19.166413"
   },
   {
     "id": 56,
@@ -1684,7 +1684,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800040"
+    "updated_at": "2026-02-17T02:43:19.166418"
   },
   {
     "id": 57,
@@ -1718,7 +1718,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800046"
+    "updated_at": "2026-02-17T02:43:19.166423"
   },
   {
     "id": 58,
@@ -1751,7 +1751,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800051"
+    "updated_at": "2026-02-17T02:43:19.166427"
   },
   {
     "id": 59,
@@ -1793,7 +1793,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800057"
+    "updated_at": "2026-02-17T02:43:19.166432"
   },
   {
     "id": 60,
@@ -1833,7 +1833,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800061"
+    "updated_at": "2026-02-17T02:43:19.166437"
   },
   {
     "id": 61,
@@ -1862,7 +1862,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800066"
+    "updated_at": "2026-02-17T02:43:19.166441"
   },
   {
     "id": 62,
@@ -1902,7 +1902,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800072"
+    "updated_at": "2026-02-17T02:43:19.166446"
   },
   {
     "id": 63,
@@ -1943,7 +1943,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800077"
+    "updated_at": "2026-02-17T02:43:19.166451"
   },
   {
     "id": 64,
@@ -1975,7 +1975,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800081"
+    "updated_at": "2026-02-17T02:43:19.166455"
   },
   {
     "id": 65,
@@ -2014,7 +2014,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800086"
+    "updated_at": "2026-02-17T02:43:19.166461"
   },
   {
     "id": 66,
@@ -2045,7 +2045,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800090"
+    "updated_at": "2026-02-17T02:43:19.166466"
   },
   {
     "id": 67,
@@ -2096,7 +2096,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800095"
+    "updated_at": "2026-02-17T02:43:19.166472"
   },
   {
     "id": 68,
@@ -2123,9 +2123,9 @@
       "Step 200",
       "Step 400"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800102"
+    "updated_at": "2026-02-17T02:43:19.166477"
   },
   {
     "id": 69,
@@ -2158,9 +2158,9 @@
       "Step 200",
       "Step 400"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800107"
+    "updated_at": "2026-02-17T02:43:19.166482"
   },
   {
     "id": 70,
@@ -2186,7 +2186,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800111"
+    "updated_at": "2026-02-17T02:43:19.166486"
   },
   {
     "id": 71,
@@ -2233,7 +2233,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800116"
+    "updated_at": "2026-02-17T02:43:19.166491"
   },
   {
     "id": 72,
@@ -2267,7 +2267,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800120"
+    "updated_at": "2026-02-17T02:43:19.166495"
   },
   {
     "id": 73,
@@ -2297,7 +2297,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800125"
+    "updated_at": "2026-02-17T02:43:19.166500"
   },
   {
     "id": 74,
@@ -2331,7 +2331,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800130"
+    "updated_at": "2026-02-17T02:43:19.166504"
   },
   {
     "id": 75,
@@ -2356,9 +2356,9 @@
       "Level 100",
       "Level 250"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800134"
+    "updated_at": "2026-02-17T02:43:19.166509"
   },
   {
     "id": 76,
@@ -2390,7 +2390,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800139"
+    "updated_at": "2026-02-17T02:43:19.166514"
   },
   {
     "id": 77,
@@ -2431,7 +2431,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800144"
+    "updated_at": "2026-02-17T02:43:19.166519"
   },
   {
     "id": 78,
@@ -2470,7 +2470,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800149"
+    "updated_at": "2026-02-17T02:43:19.166524"
   },
   {
     "id": 79,
@@ -2504,7 +2504,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800154"
+    "updated_at": "2026-02-17T02:43:19.166528"
   },
   {
     "id": 80,
@@ -2559,7 +2559,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800161"
+    "updated_at": "2026-02-17T02:43:19.166534"
   },
   {
     "id": 81,
@@ -2588,7 +2588,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800165"
+    "updated_at": "2026-02-17T02:43:19.166539"
   },
   {
     "id": 82,
@@ -2618,9 +2618,9 @@
       "purchase",
       "ad_reward"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800170"
+    "updated_at": "2026-02-17T02:43:19.166543"
   },
   {
     "id": 83,
@@ -2658,7 +2658,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800174"
+    "updated_at": "2026-02-17T02:43:19.166548"
   },
   {
     "id": 84,
@@ -2689,7 +2689,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800178"
+    "updated_at": "2026-02-17T02:43:19.166552"
   },
   {
     "id": 85,
@@ -2730,7 +2730,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800184"
+    "updated_at": "2026-02-17T02:43:19.166563"
   },
   {
     "id": 86,
@@ -2765,7 +2765,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800190"
+    "updated_at": "2026-02-17T02:43:19.166568"
   },
   {
     "id": 87,
@@ -2791,7 +2791,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800195"
+    "updated_at": "2026-02-17T02:43:19.166572"
   },
   {
     "id": 88,
@@ -2817,9 +2817,9 @@
       "Level 250",
       "Level 400"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800200"
+    "updated_at": "2026-02-17T02:43:19.166576"
   },
   {
     "id": 89,
@@ -2847,7 +2847,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800205"
+    "updated_at": "2026-02-17T02:43:19.166580"
   },
   {
     "id": 90,
@@ -2875,7 +2875,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800209"
+    "updated_at": "2026-02-17T02:43:19.166585"
   },
   {
     "id": 91,
@@ -2903,7 +2903,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800215"
+    "updated_at": "2026-02-17T02:43:19.166589"
   },
   {
     "id": 92,
@@ -2934,7 +2934,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800220"
+    "updated_at": "2026-02-17T02:43:19.166593"
   },
   {
     "id": 94,
@@ -2961,7 +2961,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800224"
+    "updated_at": "2026-02-17T02:43:19.166597"
   },
   {
     "id": 95,
@@ -3006,7 +3006,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800228"
+    "updated_at": "2026-02-17T02:43:19.166602"
   },
   {
     "id": 96,
@@ -3042,7 +3042,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800233"
+    "updated_at": "2026-02-17T02:43:19.166608"
   },
   {
     "id": 97,
@@ -3068,7 +3068,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800237"
+    "updated_at": "2026-02-17T02:43:19.166612"
   },
   {
     "id": 98,
@@ -3093,7 +3093,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800242"
+    "updated_at": "2026-02-17T02:43:19.166616"
   },
   {
     "id": 99,
@@ -3128,7 +3128,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800248"
+    "updated_at": "2026-02-17T02:43:19.166620"
   },
   {
     "id": 100,
@@ -3163,7 +3163,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800253"
+    "updated_at": "2026-02-17T02:43:19.166625"
   },
   {
     "id": 101,
@@ -3201,7 +3201,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800258"
+    "updated_at": "2026-02-17T02:43:19.166629"
   },
   {
     "id": 102,
@@ -3228,7 +3228,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800262"
+    "updated_at": "2026-02-17T02:43:19.166634"
   },
   {
     "id": 104,
@@ -3275,7 +3275,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800267"
+    "updated_at": "2026-02-17T02:43:19.166639"
   },
   {
     "id": 105,
@@ -3306,7 +3306,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800273"
+    "updated_at": "2026-02-17T02:43:19.166644"
   },
   {
     "id": 106,
@@ -3334,7 +3334,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800277"
+    "updated_at": "2026-02-17T02:43:19.166648"
   },
   {
     "id": 107,
@@ -3366,7 +3366,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800282"
+    "updated_at": "2026-02-17T02:43:19.166654"
   },
   {
     "id": 108,
@@ -3404,7 +3404,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800287"
+    "updated_at": "2026-02-17T02:43:19.166660"
   },
   {
     "id": 109,
@@ -3436,7 +3436,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800292"
+    "updated_at": "2026-02-17T02:43:19.166664"
   },
   {
     "id": 110,
@@ -3470,7 +3470,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800296"
+    "updated_at": "2026-02-17T02:43:19.166668"
   },
   {
     "id": 111,
@@ -3514,7 +3514,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800305"
+    "updated_at": "2026-02-17T02:43:19.166673"
   },
   {
     "id": 112,
@@ -3543,7 +3543,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800309"
+    "updated_at": "2026-02-17T02:43:19.166677"
   },
   {
     "id": 113,
@@ -3573,9 +3573,9 @@
       "Cyber Mall",
       "Mars"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800313"
+    "updated_at": "2026-02-17T02:43:19.166682"
   },
   {
     "id": 114,
@@ -3618,7 +3618,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800318"
+    "updated_at": "2026-02-17T02:43:19.166686"
   },
   {
     "id": 115,
@@ -3646,7 +3646,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800323"
+    "updated_at": "2026-02-17T02:43:19.166691"
   },
   {
     "id": 116,
@@ -3692,7 +3692,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800329"
+    "updated_at": "2026-02-17T02:43:19.166697"
   },
   {
     "id": 117,
@@ -3717,7 +3717,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800334"
+    "updated_at": "2026-02-17T02:43:19.166702"
   },
   {
     "id": 118,
@@ -3751,7 +3751,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800339"
+    "updated_at": "2026-02-17T02:43:19.166707"
   },
   {
     "id": 119,
@@ -3788,7 +3788,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800344"
+    "updated_at": "2026-02-17T02:43:19.166711"
   },
   {
     "id": 120,
@@ -3822,7 +3822,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800348"
+    "updated_at": "2026-02-17T02:43:19.166716"
   },
   {
     "id": 121,
@@ -3850,7 +3850,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800353"
+    "updated_at": "2026-02-17T02:43:19.166720"
   },
   {
     "id": 122,
@@ -3883,7 +3883,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800358"
+    "updated_at": "2026-02-17T02:43:19.166724"
   },
   {
     "id": 124,
@@ -3952,7 +3952,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800365"
+    "updated_at": "2026-02-17T02:43:19.166730"
   },
   {
     "id": 125,
@@ -3987,7 +3987,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800370"
+    "updated_at": "2026-02-17T02:43:19.166735"
   },
   {
     "id": 126,
@@ -4022,7 +4022,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800374"
+    "updated_at": "2026-02-17T02:43:19.166740"
   },
   {
     "id": 127,
@@ -4063,7 +4063,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800379"
+    "updated_at": "2026-02-17T02:43:19.166745"
   },
   {
     "id": 128,
@@ -4089,7 +4089,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800383"
+    "updated_at": "2026-02-17T02:43:19.166750"
   },
   {
     "id": 129,
@@ -4122,7 +4122,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800389"
+    "updated_at": "2026-02-17T02:43:19.166754"
   },
   {
     "id": 130,
@@ -4151,7 +4151,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800394"
+    "updated_at": "2026-02-17T02:43:19.166759"
   },
   {
     "id": 131,
@@ -4179,9 +4179,9 @@
       "Unknown 6",
       "Unknown 7"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800399"
+    "updated_at": "2026-02-17T02:43:19.166764"
   },
   {
     "id": 132,
@@ -4217,7 +4217,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800404"
+    "updated_at": "2026-02-17T02:43:19.166768"
   },
   {
     "id": 133,
@@ -4256,7 +4256,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800409"
+    "updated_at": "2026-02-17T02:43:19.166773"
   },
   {
     "id": 134,
@@ -4311,7 +4311,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800416"
+    "updated_at": "2026-02-17T02:43:19.166778"
   },
   {
     "id": 135,
@@ -4345,7 +4345,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800421"
+    "updated_at": "2026-02-17T02:43:19.166783"
   },
   {
     "id": 136,
@@ -4374,7 +4374,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800426"
+    "updated_at": "2026-02-17T02:43:19.166787"
   },
   {
     "id": 137,
@@ -4403,7 +4403,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800430"
+    "updated_at": "2026-02-17T02:43:19.166791"
   },
   {
     "id": 138,
@@ -4432,7 +4432,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800434"
+    "updated_at": "2026-02-17T02:43:19.166798"
   },
   {
     "id": 139,
@@ -4459,7 +4459,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800438"
+    "updated_at": "2026-02-17T02:43:19.166802"
   },
   {
     "id": 140,
@@ -4494,7 +4494,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800443"
+    "updated_at": "2026-02-17T02:43:19.166807"
   },
   {
     "id": 141,
@@ -4522,7 +4522,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800450"
+    "updated_at": "2026-02-17T02:43:19.166811"
   },
   {
     "id": 142,
@@ -4561,7 +4561,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800455"
+    "updated_at": "2026-02-17T02:43:19.166816"
   },
   {
     "id": 143,
@@ -4585,7 +4585,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800460"
+    "updated_at": "2026-02-17T02:43:19.166820"
   },
   {
     "id": 144,
@@ -4616,7 +4616,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800465"
+    "updated_at": "2026-02-17T02:43:19.166824"
   },
   {
     "id": 145,
@@ -4647,7 +4647,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800469"
+    "updated_at": "2026-02-17T02:43:19.166829"
   },
   {
     "id": 146,
@@ -4681,7 +4681,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800474"
+    "updated_at": "2026-02-17T02:43:19.166833"
   },
   {
     "id": 147,
@@ -4711,7 +4711,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800479"
+    "updated_at": "2026-02-17T02:43:19.166838"
   },
   {
     "id": 148,
@@ -4737,7 +4737,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800484"
+    "updated_at": "2026-02-17T02:43:19.166844"
   },
   {
     "id": 149,
@@ -4765,7 +4765,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800488"
+    "updated_at": "2026-02-17T02:43:19.166848"
   },
   {
     "id": 150,
@@ -4812,7 +4812,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800493"
+    "updated_at": "2026-02-17T02:43:19.166854"
   },
   {
     "id": 151,
@@ -4848,7 +4848,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800508"
+    "updated_at": "2026-02-17T02:43:19.166858"
   },
   {
     "id": 152,
@@ -4874,7 +4874,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800513"
+    "updated_at": "2026-02-17T02:43:19.166863"
   },
   {
     "id": 153,
@@ -4914,7 +4914,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800518"
+    "updated_at": "2026-02-17T02:43:19.166868"
   },
   {
     "id": 154,
@@ -4943,7 +4943,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800522"
+    "updated_at": "2026-02-17T02:43:19.166872"
   },
   {
     "id": 155,
@@ -4976,7 +4976,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800527"
+    "updated_at": "2026-02-17T02:43:19.166876"
   },
   {
     "id": 156,
@@ -5013,7 +5013,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800532"
+    "updated_at": "2026-02-17T02:43:19.166881"
   },
   {
     "id": 157,
@@ -5059,7 +5059,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800539"
+    "updated_at": "2026-02-17T02:43:19.166886"
   },
   {
     "id": 158,
@@ -5099,7 +5099,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800544"
+    "updated_at": "2026-02-17T02:43:19.166893"
   },
   {
     "id": 159,
@@ -5132,7 +5132,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800548"
+    "updated_at": "2026-02-17T02:43:19.166897"
   },
   {
     "id": 160,
@@ -5172,7 +5172,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800553"
+    "updated_at": "2026-02-17T02:43:19.166903"
   },
   {
     "id": 161,
@@ -5201,7 +5201,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800557"
+    "updated_at": "2026-02-17T02:43:19.166907"
   },
   {
     "id": 162,
@@ -5233,7 +5233,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800565"
+    "updated_at": "2026-02-17T02:43:19.166912"
   },
   {
     "id": 163,
@@ -5266,7 +5266,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800569"
+    "updated_at": "2026-02-17T02:43:19.166917"
   },
   {
     "id": 164,
@@ -5296,7 +5296,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800573"
+    "updated_at": "2026-02-17T02:43:19.166921"
   },
   {
     "id": 165,
@@ -5335,7 +5335,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800578"
+    "updated_at": "2026-02-17T02:43:19.166926"
   },
   {
     "id": 166,
@@ -5371,7 +5371,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800583"
+    "updated_at": "2026-02-17T02:43:19.166931"
   },
   {
     "id": 167,
@@ -5401,7 +5401,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800587"
+    "updated_at": "2026-02-17T02:43:19.166935"
   },
   {
     "id": 168,
@@ -5451,7 +5451,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800596"
+    "updated_at": "2026-02-17T02:43:19.166941"
   },
   {
     "id": 169,
@@ -5481,7 +5481,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800600"
+    "updated_at": "2026-02-17T02:43:19.166945"
   },
   {
     "id": 170,
@@ -5508,7 +5508,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800604"
+    "updated_at": "2026-02-17T02:43:19.166949"
   },
   {
     "id": 171,
@@ -5536,7 +5536,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800608"
+    "updated_at": "2026-02-17T02:43:19.166953"
   },
   {
     "id": 172,
@@ -5567,7 +5567,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800613"
+    "updated_at": "2026-02-17T02:43:19.166958"
   },
   {
     "id": 173,
@@ -5598,7 +5598,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800619"
+    "updated_at": "2026-02-17T02:43:19.166962"
   },
   {
     "id": 174,
@@ -5639,7 +5639,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800626"
+    "updated_at": "2026-02-17T02:43:19.166967"
   },
   {
     "id": 175,
@@ -5669,7 +5669,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800630"
+    "updated_at": "2026-02-17T02:43:19.166971"
   },
   {
     "id": 176,
@@ -5703,7 +5703,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800634"
+    "updated_at": "2026-02-17T02:43:19.166975"
   },
   {
     "id": 177,
@@ -5728,7 +5728,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800638"
+    "updated_at": "2026-02-17T02:43:19.166979"
   },
   {
     "id": 178,
@@ -5758,7 +5758,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800642"
+    "updated_at": "2026-02-17T02:43:19.166984"
   },
   {
     "id": 179,
@@ -5787,7 +5787,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800647"
+    "updated_at": "2026-02-17T02:43:19.166988"
   },
   {
     "id": 180,
@@ -5820,7 +5820,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800654"
+    "updated_at": "2026-02-17T02:43:19.166993"
   },
   {
     "id": 181,
@@ -5850,7 +5850,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800658"
+    "updated_at": "2026-02-17T02:43:19.166997"
   },
   {
     "id": 182,
@@ -5885,7 +5885,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800663"
+    "updated_at": "2026-02-17T02:43:19.167001"
   },
   {
     "id": 183,
@@ -5921,7 +5921,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800668"
+    "updated_at": "2026-02-17T02:43:19.167008"
   },
   {
     "id": 184,
@@ -5966,7 +5966,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800673"
+    "updated_at": "2026-02-17T02:43:19.167014"
   },
   {
     "id": 185,
@@ -6003,7 +6003,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800681"
+    "updated_at": "2026-02-17T02:43:19.167018"
   },
   {
     "id": 186,
@@ -6041,7 +6041,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800685"
+    "updated_at": "2026-02-17T02:43:19.167023"
   },
   {
     "id": 187,
@@ -6076,7 +6076,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800691"
+    "updated_at": "2026-02-17T02:43:19.167028"
   },
   {
     "id": 188,
@@ -6100,7 +6100,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800695"
+    "updated_at": "2026-02-17T02:43:19.167034"
   },
   {
     "id": 189,
@@ -6139,7 +6139,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800700"
+    "updated_at": "2026-02-17T02:43:19.167039"
   },
   {
     "id": 190,
@@ -6178,7 +6178,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800704"
+    "updated_at": "2026-02-17T02:43:19.167043"
   },
   {
     "id": 191,
@@ -6222,7 +6222,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800712"
+    "updated_at": "2026-02-17T02:43:19.167048"
   },
   {
     "id": 192,
@@ -6354,7 +6354,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800722"
+    "updated_at": "2026-02-17T02:43:19.167057"
   },
   {
     "id": 193,
@@ -6388,7 +6388,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800727"
+    "updated_at": "2026-02-17T02:43:19.167062"
   },
   {
     "id": 194,
@@ -6437,7 +6437,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800732"
+    "updated_at": "2026-02-17T02:43:19.167067"
   },
   {
     "id": 195,
@@ -6480,7 +6480,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800739"
+    "updated_at": "2026-02-17T02:43:19.167072"
   },
   {
     "id": 196,
@@ -6519,7 +6519,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800744"
+    "updated_at": "2026-02-17T02:43:19.167077"
   },
   {
     "id": 197,
@@ -6549,7 +6549,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800748"
+    "updated_at": "2026-02-17T02:43:19.167081"
   },
   {
     "id": 198,
@@ -6576,7 +6576,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800752"
+    "updated_at": "2026-02-17T02:43:19.167086"
   },
   {
     "id": 199,
@@ -6602,7 +6602,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800756"
+    "updated_at": "2026-02-17T02:43:19.167090"
   },
   {
     "id": 200,
@@ -6634,7 +6634,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800760"
+    "updated_at": "2026-02-17T02:43:19.167095"
   },
   {
     "id": 201,
@@ -6665,7 +6665,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800765"
+    "updated_at": "2026-02-17T02:43:19.167100"
   },
   {
     "id": 202,
@@ -6694,7 +6694,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800771"
+    "updated_at": "2026-02-17T02:43:19.167104"
   },
   {
     "id": 203,
@@ -6718,7 +6718,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800775"
+    "updated_at": "2026-02-17T02:43:19.167108"
   },
   {
     "id": 204,
@@ -6743,7 +6743,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800779"
+    "updated_at": "2026-02-17T02:43:19.167112"
   },
   {
     "id": 205,
@@ -6770,7 +6770,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800783"
+    "updated_at": "2026-02-17T02:43:19.167116"
   },
   {
     "id": 206,
@@ -6801,7 +6801,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800788"
+    "updated_at": "2026-02-17T02:43:19.167121"
   },
   {
     "id": 207,
@@ -6857,7 +6857,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800797"
+    "updated_at": "2026-02-17T02:43:19.167126"
   },
   {
     "id": 208,
@@ -6887,7 +6887,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800801"
+    "updated_at": "2026-02-17T02:43:19.167131"
   },
   {
     "id": 209,
@@ -6921,7 +6921,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800805"
+    "updated_at": "2026-02-17T02:43:19.167136"
   },
   {
     "id": 210,
@@ -6949,7 +6949,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800809"
+    "updated_at": "2026-02-17T02:43:19.167141"
   },
   {
     "id": 211,
@@ -6985,7 +6985,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800814"
+    "updated_at": "2026-02-17T02:43:19.167146"
   },
   {
     "id": 212,
@@ -7015,7 +7015,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800820"
+    "updated_at": "2026-02-17T02:43:19.167151"
   },
   {
     "id": 213,
@@ -7049,7 +7049,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800827"
+    "updated_at": "2026-02-17T02:43:19.167155"
   },
   {
     "id": 214,
@@ -7080,7 +7080,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800832"
+    "updated_at": "2026-02-17T02:43:19.167160"
   },
   {
     "id": 216,
@@ -7158,7 +7158,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800839"
+    "updated_at": "2026-02-17T02:43:19.167166"
   },
   {
     "id": 217,
@@ -7185,7 +7185,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800843"
+    "updated_at": "2026-02-17T02:43:19.167170"
   },
   {
     "id": 218,
@@ -7240,7 +7240,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800848"
+    "updated_at": "2026-02-17T02:43:19.167176"
   },
   {
     "id": 219,
@@ -7270,7 +7270,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800855"
+    "updated_at": "2026-02-17T02:43:19.167181"
   },
   {
     "id": 221,
@@ -7307,7 +7307,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800860"
+    "updated_at": "2026-02-17T02:43:19.167185"
   },
   {
     "id": 222,
@@ -7340,7 +7340,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800864"
+    "updated_at": "2026-02-17T02:43:19.167190"
   },
   {
     "id": 223,
@@ -7373,7 +7373,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800868"
+    "updated_at": "2026-02-17T02:43:19.167194"
   },
   {
     "id": 224,
@@ -7419,7 +7419,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800874"
+    "updated_at": "2026-02-17T02:43:19.167199"
   },
   {
     "id": 225,
@@ -7449,7 +7449,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800878"
+    "updated_at": "2026-02-17T02:43:19.167204"
   },
   {
     "id": 226,
@@ -7476,7 +7476,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800885"
+    "updated_at": "2026-02-17T02:43:19.167208"
   },
   {
     "id": 227,
@@ -7502,7 +7502,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800890"
+    "updated_at": "2026-02-17T02:43:19.167212"
   },
   {
     "id": 228,
@@ -7530,7 +7530,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800894"
+    "updated_at": "2026-02-17T02:43:19.167217"
   },
   {
     "id": 229,
@@ -7586,7 +7586,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800900"
+    "updated_at": "2026-02-17T02:43:19.167222"
   },
   {
     "id": 230,
@@ -7626,7 +7626,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800904"
+    "updated_at": "2026-02-17T02:43:19.167228"
   },
   {
     "id": 231,
@@ -7654,7 +7654,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800910"
+    "updated_at": "2026-02-17T02:43:19.167232"
   },
   {
     "id": 232,
@@ -7693,7 +7693,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800916"
+    "updated_at": "2026-02-17T02:43:19.167237"
   },
   {
     "id": 233,
@@ -7731,7 +7731,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800921"
+    "updated_at": "2026-02-17T02:43:19.167241"
   },
   {
     "id": 234,
@@ -7772,7 +7772,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800927"
+    "updated_at": "2026-02-17T02:43:19.167246"
   },
   {
     "id": 235,
@@ -7811,7 +7811,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800931"
+    "updated_at": "2026-02-17T02:43:19.167251"
   },
   {
     "id": 236,
@@ -7911,7 +7911,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800942"
+    "updated_at": "2026-02-17T02:43:19.167258"
   },
   {
     "id": 237,
@@ -7949,7 +7949,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800946"
+    "updated_at": "2026-02-17T02:43:19.167263"
   },
   {
     "id": 238,
@@ -7980,7 +7980,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800951"
+    "updated_at": "2026-02-17T02:43:19.167267"
   },
   {
     "id": 253,
@@ -8002,9 +8002,9 @@
     "available_events": [
       "level_up"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800956"
+    "updated_at": "2026-02-17T02:43:19.167272"
   },
   {
     "id": 254,
@@ -8028,7 +8028,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800960"
+    "updated_at": "2026-02-17T02:43:19.167277"
   },
   {
     "id": 255,
@@ -8052,7 +8052,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800964"
+    "updated_at": "2026-02-17T02:43:19.167281"
   },
   {
     "id": 256,
@@ -8076,7 +8076,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800971"
+    "updated_at": "2026-02-17T02:43:19.167285"
   },
   {
     "id": 257,
@@ -8100,7 +8100,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800975"
+    "updated_at": "2026-02-17T02:43:19.167289"
   },
   {
     "id": 258,
@@ -8124,7 +8124,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800980"
+    "updated_at": "2026-02-17T02:43:19.167293"
   },
   {
     "id": 259,
@@ -8148,7 +8148,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800985"
+    "updated_at": "2026-02-17T02:43:19.167298"
   },
   {
     "id": 260,
@@ -8172,7 +8172,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800989"
+    "updated_at": "2026-02-17T02:43:19.167303"
   },
   {
     "id": 261,
@@ -8196,7 +8196,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.800993"
+    "updated_at": "2026-02-17T02:43:19.167307"
   },
   {
     "id": 262,
@@ -8220,7 +8220,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801000"
+    "updated_at": "2026-02-17T02:43:19.167311"
   },
   {
     "id": 263,
@@ -8254,7 +8254,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801005"
+    "updated_at": "2026-02-17T02:43:19.167316"
   },
   {
     "id": 264,
@@ -8287,7 +8287,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801009"
+    "updated_at": "2026-02-17T02:43:19.167321"
   },
   {
     "id": 265,
@@ -8309,9 +8309,9 @@
     "available_events": [
       "level_up"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801013"
+    "updated_at": "2026-02-17T02:43:19.167325"
   },
   {
     "id": 266,
@@ -8335,7 +8335,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801017"
+    "updated_at": "2026-02-17T02:43:19.167329"
   },
   {
     "id": 267,
@@ -8360,7 +8360,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801022"
+    "updated_at": "2026-02-17T02:43:19.167333"
   },
   {
     "id": 269,
@@ -8384,7 +8384,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801029"
+    "updated_at": "2026-02-17T02:43:19.167337"
   },
   {
     "id": 270,
@@ -8409,7 +8409,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801034"
+    "updated_at": "2026-02-17T02:43:19.167341"
   },
   {
     "id": 271,
@@ -8443,7 +8443,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801038"
+    "updated_at": "2026-02-17T02:43:19.167346"
   },
   {
     "id": 272,
@@ -8469,7 +8469,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801043"
+    "updated_at": "2026-02-17T02:43:19.167350"
   },
   {
     "id": 274,
@@ -8494,7 +8494,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801046"
+    "updated_at": "2026-02-17T02:43:19.167354"
   },
   {
     "id": 275,
@@ -8519,7 +8519,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801050"
+    "updated_at": "2026-02-17T02:43:19.167358"
   },
   {
     "id": 276,
@@ -8544,7 +8544,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801055"
+    "updated_at": "2026-02-17T02:43:19.167363"
   },
   {
     "id": 277,
@@ -8569,7 +8569,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801061"
+    "updated_at": "2026-02-17T02:43:19.167368"
   },
   {
     "id": 278,
@@ -8594,9 +8594,9 @@
       "michael",
       "savannah"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801065"
+    "updated_at": "2026-02-17T02:43:19.167372"
   },
   {
     "id": 285,
@@ -8620,7 +8620,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801069"
+    "updated_at": "2026-02-17T02:43:19.167377"
   },
   {
     "id": 312,
@@ -8645,7 +8645,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801074"
+    "updated_at": "2026-02-17T02:43:19.167381"
   },
   {
     "id": 313,
@@ -8670,7 +8670,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801078"
+    "updated_at": "2026-02-17T02:43:19.167386"
   },
   {
     "id": 314,
@@ -8695,7 +8695,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801084"
+    "updated_at": "2026-02-17T02:43:19.167391"
   },
   {
     "id": 315,
@@ -8728,7 +8728,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801089"
+    "updated_at": "2026-02-17T02:43:19.167395"
   },
   {
     "id": 316,
@@ -8753,7 +8753,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801093"
+    "updated_at": "2026-02-17T02:43:19.167399"
   },
   {
     "id": 317,
@@ -8778,7 +8778,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801098"
+    "updated_at": "2026-02-17T02:43:19.167403"
   },
   {
     "id": 318,
@@ -8803,7 +8803,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801102"
+    "updated_at": "2026-02-17T02:43:19.167408"
   },
   {
     "id": 319,
@@ -8826,9 +8826,9 @@
       "level_up",
       "purchase"
     ],
-    "status": "active",
+    "status": "soon",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801106"
+    "updated_at": "2026-02-17T02:43:19.167412"
   },
   {
     "id": 320,
@@ -8853,7 +8853,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801110"
+    "updated_at": "2026-02-17T02:43:19.167416"
   },
   {
     "id": 321,
@@ -8877,7 +8877,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801114"
+    "updated_at": "2026-02-17T02:43:19.167420"
   },
   {
     "id": 322,
@@ -8901,7 +8901,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801121"
+    "updated_at": "2026-02-17T02:43:19.167424"
   },
   {
     "id": 323,
@@ -8925,7 +8925,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801125"
+    "updated_at": "2026-02-17T02:43:19.167428"
   },
   {
     "id": 324,
@@ -8974,7 +8974,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801131"
+    "updated_at": "2026-02-17T02:43:19.167433"
   },
   {
     "id": 326,
@@ -9012,7 +9012,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801135"
+    "updated_at": "2026-02-17T02:43:19.167438"
   },
   {
     "id": 327,
@@ -9047,7 +9047,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801140"
+    "updated_at": "2026-02-17T02:43:19.167442"
   },
   {
     "id": 328,
@@ -9072,7 +9072,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801145"
+    "updated_at": "2026-02-17T02:43:19.167446"
   },
   {
     "id": 329,
@@ -9110,7 +9110,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801150"
+    "updated_at": "2026-02-17T02:43:19.167452"
   },
   {
     "id": 330,
@@ -9132,9 +9132,9 @@
     "available_events": [
       "level_up"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801155"
+    "updated_at": "2026-02-17T02:43:19.167456"
   },
   {
     "id": 331,
@@ -9156,9 +9156,9 @@
     "available_events": [
       "level_up"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801159"
+    "updated_at": "2026-02-17T02:43:19.167460"
   },
   {
     "id": 332,
@@ -9180,9 +9180,9 @@
     "available_events": [
       "level_up"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801163"
+    "updated_at": "2026-02-17T02:43:19.167465"
   },
   {
     "id": 333,
@@ -9202,9 +9202,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801168"
+    "updated_at": "2026-02-17T02:43:19.167469"
   },
   {
     "id": 334,
@@ -9224,9 +9224,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801172"
+    "updated_at": "2026-02-17T02:43:19.167473"
   },
   {
     "id": 335,
@@ -9248,9 +9248,9 @@
     "available_events": [
       "level_up"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801179"
+    "updated_at": "2026-02-17T02:43:19.167477"
   },
   {
     "id": 336,
@@ -9270,9 +9270,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801183"
+    "updated_at": "2026-02-17T02:43:19.167481"
   },
   {
     "id": 337,
@@ -9292,9 +9292,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801187"
+    "updated_at": "2026-02-17T02:43:19.167485"
   },
   {
     "id": 338,
@@ -9314,9 +9314,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801190"
+    "updated_at": "2026-02-17T02:43:19.167489"
   },
   {
     "id": 339,
@@ -9338,9 +9338,9 @@
     "available_events": [
       "level_up"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801194"
+    "updated_at": "2026-02-17T02:43:19.167494"
   },
   {
     "id": 340,
@@ -9362,9 +9362,9 @@
     "available_events": [
       "level_up"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801199"
+    "updated_at": "2026-02-17T02:43:19.167498"
   },
   {
     "id": 341,
@@ -9388,7 +9388,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801205"
+    "updated_at": "2026-02-17T02:43:19.167502"
   },
   {
     "id": 342,
@@ -9412,7 +9412,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801210"
+    "updated_at": "2026-02-17T02:43:19.167506"
   },
   {
     "id": 343,
@@ -9432,9 +9432,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801214"
+    "updated_at": "2026-02-17T02:43:19.167510"
   },
   {
     "id": 344,
@@ -9454,9 +9454,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801218"
+    "updated_at": "2026-02-17T02:43:19.167514"
   },
   {
     "id": 345,
@@ -9476,9 +9476,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801223"
+    "updated_at": "2026-02-17T02:43:19.167518"
   },
   {
     "id": 346,
@@ -9498,9 +9498,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801227"
+    "updated_at": "2026-02-17T02:43:19.167522"
   },
   {
     "id": 347,
@@ -9520,9 +9520,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801232"
+    "updated_at": "2026-02-17T02:43:19.167526"
   },
   {
     "id": 348,
@@ -9542,9 +9542,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801237"
+    "updated_at": "2026-02-17T02:43:19.167530"
   },
   {
     "id": 349,
@@ -9564,9 +9564,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801240"
+    "updated_at": "2026-02-17T02:43:19.167534"
   },
   {
     "id": 350,
@@ -9601,7 +9601,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801245"
+    "updated_at": "2026-02-17T02:43:19.167539"
   },
   {
     "id": 351,
@@ -9625,7 +9625,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801249"
+    "updated_at": "2026-02-17T02:43:19.167543"
   },
   {
     "id": 352,
@@ -9649,7 +9649,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801253"
+    "updated_at": "2026-02-17T02:43:19.167547"
   },
   {
     "id": 353,
@@ -9673,7 +9673,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801258"
+    "updated_at": "2026-02-17T02:43:19.167551"
   },
   {
     "id": 354,
@@ -9693,9 +9693,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801265"
+    "updated_at": "2026-02-17T02:43:19.167555"
   },
   {
     "id": 355,
@@ -9715,9 +9715,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801268"
+    "updated_at": "2026-02-17T02:43:19.167563"
   },
   {
     "id": 356,
@@ -9737,9 +9737,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801272"
+    "updated_at": "2026-02-17T02:43:19.167568"
   },
   {
     "id": 357,
@@ -9778,7 +9778,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801277"
+    "updated_at": "2026-02-17T02:43:19.167573"
   },
   {
     "id": 358,
@@ -9816,7 +9816,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801281"
+    "updated_at": "2026-02-17T02:43:19.167579"
   },
   {
     "id": 359,
@@ -9840,7 +9840,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801285"
+    "updated_at": "2026-02-17T02:43:19.167584"
   },
   {
     "id": 360,
@@ -9862,7 +9862,7 @@
     "available_events": [],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801292"
+    "updated_at": "2026-02-17T02:43:19.167588"
   },
   {
     "id": 361,
@@ -9882,9 +9882,9 @@
     "is_new": false,
     "jambara_modes": [],
     "available_events": [],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801296"
+    "updated_at": "2026-02-17T02:43:19.167592"
   },
   {
     "id": 362,
@@ -9908,7 +9908,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801300"
+    "updated_at": "2026-02-17T02:43:19.167596"
   },
   {
     "id": 363,
@@ -9932,7 +9932,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801305"
+    "updated_at": "2026-02-17T02:43:19.167600"
   },
   {
     "id": 364,
@@ -9956,7 +9956,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801309"
+    "updated_at": "2026-02-17T02:43:19.167605"
   },
   {
     "id": 365,
@@ -9980,7 +9980,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801313"
+    "updated_at": "2026-02-17T02:43:19.167608"
   },
   {
     "id": 366,
@@ -10004,7 +10004,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801318"
+    "updated_at": "2026-02-17T02:43:19.167612"
   },
   {
     "id": 367,
@@ -10028,7 +10028,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801323"
+    "updated_at": "2026-02-17T02:43:19.167616"
   },
   {
     "id": 368,
@@ -10052,7 +10052,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801328"
+    "updated_at": "2026-02-17T02:43:19.167620"
   },
   {
     "id": 369,
@@ -10076,7 +10076,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801332"
+    "updated_at": "2026-02-17T02:43:19.167625"
   },
   {
     "id": 370,
@@ -10100,7 +10100,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801336"
+    "updated_at": "2026-02-17T02:43:19.167629"
   },
   {
     "id": 371,
@@ -10124,7 +10124,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801340"
+    "updated_at": "2026-02-17T02:43:19.167633"
   },
   {
     "id": 372,
@@ -10146,9 +10146,9 @@
     "available_events": [
       "level_up"
     ],
-    "status": "active",
+    "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801344"
+    "updated_at": "2026-02-17T02:43:19.167637"
   },
   {
     "id": 373,
@@ -10186,6 +10186,6 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-16T23:44:23.801352"
+    "updated_at": "2026-02-17T02:43:19.167642"
   }
 ]
