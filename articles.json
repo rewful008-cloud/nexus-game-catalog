@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Welcome to KUN 0X Nexus",
+        "excerpt": "Discover the ultimate game catalog with advanced bypass capabilities.",
+        "content": "<p>Welcome to the new KUN 0X Nexus platform. We provide the best tools for game analysis and tracking emulation.</p>",
+        "image": "https://placehold.co/600x400/1e293b/ffffff?text=KUN+Nexus",
+        "date": "2024-05-20",
+        "author": "Admin"
+    },
+    {
+        "id": 2,
+        "title": "Update v2.0 Released",
+        "excerpt": "New features included in the latest update regarding AppsFlyer emulation.",
+        "content": "<p>We have updated our core engine to support the latest AppsFlyer SDK versions. Check out the new supported games list.</p>",
+        "image": "https://placehold.co/600x400/4f46e5/ffffff?text=Update+v2.0",
+        "date": "2024-06-15",
+        "author": "Dev Team"
+    }
+]

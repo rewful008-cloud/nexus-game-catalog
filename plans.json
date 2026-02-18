@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Starter",
+        "price": "9.99",
+        "currency": "$",
+        "period": "/month",
+        "features": [
+            "Access to 5 Games",
+            "Basic Support",
+            "No Ads"
+        ],
+        "is_recommended": false,
+        "button_text": "Subscribe",
+        "button_link": "#"
+    },
+    {
+        "id": 2,
+        "name": "Pro",
+        "price": "19.99",
+        "currency": "$",
+        "period": "/month",
+        "features": [
+            "Access to All Games",
+            "Priority Support",
+            "No Ads",
+            "Early Access"
+        ],
+        "is_recommended": true,
+        "button_text": "Get Pro",
+        "button_link": "#"
+    }
+]
