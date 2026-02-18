@@ -12,10 +12,19 @@ const logError = (err) => {
 
 createApp({
     setup() {
+        // Core State
         const games = ref([]);
         const loading = ref(true);
         const scrolled = ref(false);
         const selectedGame = ref(null);
+
+        // Extended State
+        const plans = ref([]);
+        const articles = ref([]);
+        const selectedArticle = ref(null);
+
+        // Section Navigation
+        const activeSection = ref('games'); // 'games', 'pricing', 'blog'
 
         // Language State
         const lang = ref(localStorage.getItem('nexus_lang') || 'en');
@@ -32,6 +41,9 @@ createApp({
                 featured: "Featured Games",
                 new: "New",
                 games: "Games",
+                pricing: "Pricing",
+                blog: "Blog",
+                readMore: "Read More",
                 noResults: "No games found matching your criteria.",
                 statistics: "Statistics Overview",
                 totalGames: "Total Games",
@@ -67,6 +79,9 @@ createApp({
                 featured: "ألعاب مميزة",
                 new: "جديد",
                 games: "الألعاب",
+                pricing: "الأسعار",
+                blog: "المدونة",
+                readMore: "اقرأ المزيد",
                 noResults: "لا توجد ألعاب تطابق بحثك.",
                 statistics: "نظرة عامة على الإحصائيات",
                 totalGames: "إجمالي الألعاب",
@@ -213,6 +228,20 @@ createApp({
             }
         };
 
+        const fetchPlans = async () => {
+            try {
+                const response = await fetch('plans.json');
+                if (response.ok) plans.value = await response.json();
+            } catch (error) { console.error("Plans Load Error", error); }
+        };
+
+        const fetchArticles = async () => {
+            try {
+                const response = await fetch('articles.json');
+                if (response.ok) articles.value = await response.json();
+            } catch (error) { console.error("Articles Load Error", error); }
+        };
+
         const openModal = (game) => {
             selectedGame.value = game;
             // document.body.style.overflow = 'hidden'; // Let body scroll or rely on fixed overlay
@@ -221,6 +250,14 @@ createApp({
         const closeModal = () => {
             selectedGame.value = null;
             // document.body.style.overflow = '';
+        };
+
+        const openArticle = (article) => {
+            selectedArticle.value = article;
+        };
+
+        const closeArticle = () => {
+            selectedArticle.value = null;
         };
 
         const resetFilters = () => {
@@ -278,6 +315,8 @@ createApp({
 
         onMounted(() => {
             fetchGames();
+            fetchPlans();
+            fetchArticles();
             updateDirection();
             window.addEventListener('scroll', handleScroll);
             if (window.lucide) window.lucide.createIcons();
@@ -306,7 +345,7 @@ createApp({
 
         return {
             // State
-            lang, games, selectedGame, loading, filters,
+            lang, games, plans, articles, selectedGame, selectedArticle, loading, filters, activeSection,
 
             // Computed
             t, featuredGames, filteredGames, relatedGames,
@@ -317,7 +356,7 @@ createApp({
             statistics,
 
             // Methods
-            toggleLanguage, openModal, closeModal, resetFilters,
+            toggleLanguage, openModal, closeModal, openArticle, closeArticle, resetFilters,
             goToPage, nextPage, prevPage, shouldShowPage
         };
     }
